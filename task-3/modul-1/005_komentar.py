@@ -1,0 +1,1 @@
+print("INI ADALAH KOMENTAR") # Contoh Komentar
