@@ -15,7 +15,9 @@ Pendukung modul
 `python -m venv env` ⬅️ "env" bisa diganti dengan nama sesuai keinginan begitu pula path nya misal `venv folder/project/namaEnv`
 
 - **Start env**
+
 `source env/Scripts/activate`
 
 - **End env**
+
 `source deactivate`
