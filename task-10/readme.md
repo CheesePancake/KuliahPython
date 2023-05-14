@@ -44,7 +44,7 @@ deactivate
 
 ## 🐍 Upgrade pip
 memperbaharui package manager python bertujuan untuk mengatasi compatibility issue antara python dan modul yang ingin di install
-perintah berikut digunakan untuk memperbaharui pip global maupun pip virtual environmen
+perintah berikut digunakan untuk memperbaharui pip global maupun pip virtual environment
 ```bash
 $ python -m pip install --upgrade pip
 ```
