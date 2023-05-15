@@ -60,5 +60,5 @@ Successfully installed pip-23.1.2
 ```
 
 # Selanjutnya
-⚒️ [Instalasi Django](link)
+⚒️ [Instalasi Django](https://github.com/CheesePancake/KuliahPython/blob/main/task-10/DjangoInstall.md)
 
