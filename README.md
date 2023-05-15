@@ -6,3 +6,5 @@ misal **Task 1** maka
 ```
 Task-1/Modul-1
 Task-1/Modul-2
+
+Khusus Django akan berformat berbeda dengan tabel navigasi ke file yang memiliki relasi
