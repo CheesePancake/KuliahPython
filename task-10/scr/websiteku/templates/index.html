@@ -1,3 +1,4 @@
+{% load static %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -5,12 +6,22 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Websiteku</title>
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
 </head>
 <body>
-    <h2 style="text-align: center;">Halaman websiteku</h2>
-    <ul>
-        <li><a href="/">Beranda</a></li>
-        <li><a href="/about/">tentang kami</a></li>
-    </ul>
+    <img id="banner" src="{% static 'img/home.png' %}" alt="">
+
+    <div id="menu">
+        <ul>
+          <li><a href="/">Beranda</a></li>
+          <li><a href="/about">tentang kami</a></li>
+        </ul>
+    <h2 >Beranda</h2>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Eveniet quod perferendis eaque non ea, sequi a fugit illo, sit quae neque saepe soluta alias iusto quibusdam omnis nemo itaque dicta id ad.
+         Numquam modi maxime similique error, quaerat corrupti tempora minima voluptatum ad vitae quis repellat dicta qui reprehenderit totam!
+    </p>
+    </div>
 </body>
 </html>
