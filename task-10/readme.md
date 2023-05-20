@@ -1,9 +1,9 @@
-| **📝 Modul yang dikerjakan**  | **📁 File yang menjelaskan**                                                                            |
+| **📝 Modul yang dikerjakan**  | **📁 File yang menjelaskan**                                                                         |
 |-----------------------------	|------------------------------------------------------------------------------------------------------	|
 | modul - 1                   	| [readme.md](https://github.com/CheesePancake/KuliahPython/blob/main/task-10/readme.md)               	|
 | modul - 2                   	| [DjangoInstall.md](https://github.com/CheesePancake/KuliahPython/blob/main/task-10/DjangoInstall.md) 	|
-| modul - 3                   	| [modul_3.md](https://github.com/CheesePancake/KuliahPython/blob/main/task-10/modul_3.md)             	|
-| modul - 4                   	| [modul_4.md](https://github.com/CheesePancake/KuliahPython/blob/main/task-10/Modul_4.md)              |
+| modul - 3                   	| [Source Code](https://github.com/CheesePancake/KuliahPython/tree/main/task-10/scr)             	      |
+| modul - 4                   	| [Source Code](https://github.com/CheesePancake/KuliahPython/tree/main/task-10/scr)                    |
 
 # Modul django task 10 pdf 1 ~ 4 kelas Pemrograman Python
 Untuk task ini direkomendasikan untuk melakukan instalasi dan penerapan virtualenv atau virtual environment agar modul-modul paket python global tidak bentrok
